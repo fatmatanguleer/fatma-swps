@@ -25,6 +25,7 @@ cat notes.txt
 **Exercise 7**.
 ```bash
 chmod +x script.sh
+```
 
 
 git clone https://github.com/kropiak/swps-developer-tools.git
